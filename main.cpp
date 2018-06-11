@@ -1,6 +1,7 @@
-/* 
-Alaa Anani 
-900163247
+/*
+This project is created by ALAA ANANI as part of the Data Structres and Algorithms CS210 Course.
+December 14, 2017.
+Copyrgiht © 2017 ALAA ANANI. All rights are reserved.
 */
 
 
